@@ -1,6 +1,6 @@
 # Post
 Post Management System
-1. download or clone the project (https://github.com/Lija868/PostManagement.git)
+1. download or clone the project (https://github.com/Lija868/PostManagement.git) use development branch
 2. open post folder in corresponding ide.
 3. replace appropriate values for DATABASES  in settings.py file (post\post\settings.py)
 4. install the requirements using pip install -r /path/to/requirements.txt
